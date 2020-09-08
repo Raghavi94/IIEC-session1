@@ -1,0 +1,7 @@
+#First type python in cmd to check whether it(here python) is installed in your system
+#At first import the necessary library
+import os
+#This command opens notepad (CLI)
+os.system("notepad")
+#This command opens Google Chrome /here we need to include start word because some extension of that is not proper.
+os.system("start Chrome")
