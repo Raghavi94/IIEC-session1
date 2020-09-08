@@ -1,0 +1,6 @@
+#At first install the required module(which makes the system talk to us)
+pip install pyttsx3
+#import that library
+import pyttsx3
+#speak is a inbuilt function
+pyttsx3.speak("Hello world!")
